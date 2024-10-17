@@ -1,0 +1,23 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/hangoclinh/Documents/Personal/omiCode-Landing-Page-Source-Code/pages/blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_3acb143c"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "/Users/hangoclinh/Documents/Personal/omiCode-Landing-Page-Source-Code/pages/blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_e648c252"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/hangoclinh/Documents/Personal/omiCode-Landing-Page-Source-Code/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_08f982c2"
+  }
+]

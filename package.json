@@ -1,0 +1,26 @@
+{
+  "name": "grutech-education",
+  "version": "1.0.0",
+  "description": "GrowUPwTech - GruTech Education - STEM Education for Kids",
+  "author": "GrowUPwTech",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "predeploy": "nuxt generate",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@nuxtjs/robots": "^2.5.0",
+    "nuxt": "^2.0.0",
+    "swiper": "^5.3.7",
+    "vue-awesome-swiper": "^4.1.0",
+    "vue-count-to": "^1.0.13",
+    "vue-observe-visibility": "^0.4.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
