@@ -21,3 +21,5 @@ jobs:
         run: npm install
       - name: Static HTML export with Nuxt
         run: npm run generate
+      - name: Copy built source
+        run: cp ./dist/ /www/wwwroot/grutech.edu.vn/
