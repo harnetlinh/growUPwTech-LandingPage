@@ -18,7 +18,7 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Install dependencies
-        run: npm install
+        run: npm i
       - name: Static HTML export with Nuxt
         run: npm run generate
       - name: Copy built source
